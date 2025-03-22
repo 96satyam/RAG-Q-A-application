@@ -50,7 +50,7 @@ This project implements a Retrieval-Augmented Generation (RAG) Q&A Chatbot Serve
 
 #### Clone the Repository
 
-#### git clone https://github.com/yourusername/yourrepo.git
+#### git clone https://github.com/96satyam/RAG-Q-A-application
 cd yourrepo
 
 #### Create a Virtual Environment
@@ -117,12 +117,12 @@ Response:
 
 ### File Structure
 
-├── app.py               # Main application file
-├── analysisdata.ipynb   # Data analysis notebook
-├── datapreprocessing.ipynb # Data preprocessing steps
-├── requirements.txt     # Python dependencies
-├── .env                 # API keys (not included in repo)
-└── README.md            # Project documentation
+##### ├── app.py               # Main application file
+##### ├── analysisdata.ipynb   # Data analysis notebook
+##### ├── datapreprocessing.ipynb # Data preprocessing steps
+##### ├── requirements.txt     # Python dependencies
+##### ├── .env                 # API keys (not included in repo)
+##### └── README.md            # Project documentation
 
 #### Future Improvements
 
